@@ -32,4 +32,5 @@ public class Task extends Model {
 
 	public static Finder<Long, Task> find = new Finder(Long.class, Task.class);
 
+
 }
